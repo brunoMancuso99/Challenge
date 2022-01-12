@@ -1,0 +1,72 @@
+* {
+
+    padding: 0%;
+    margin: 0%;
+    
+}
+
+.cabezera  {
+
+    display:flex;
+
+    margin:top 0%;
+    background-color:cornflowerblue; 
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+.cabezera .logo {
+
+    padding: 10px;
+    width: 50px;
+}
+
+.cabezera .encabezado {
+
+    margin-left: 20%;
+    margin-right: 20%;
+    font-family: Arial, Helvetica, sans-serif;
+    color: cornsilk;
+    align-items: center;
+}
+
+/* Body */
+
+.titulo {
+
+    margin-left: 20%;
+    margin-right: 20%;
+    
+    margin-bottom: 0%;
+}
+
+.container {
+
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 20%;
+    background-color:cornflowerblue;
+}
+
+.container .tabla {
+
+    background-color: white;
+    margin-left: 20%;
+    margin-right: 20%;
+
+}
+
+
+.container .tabla .tablahead {
+
+    padding: 15px;
+
+}
+
+/* Footer */
+
+.foot {
+    background-color:cornflowerblue;
+    margin-top: 100%;
+    margin-bottom: 0%;
+}
